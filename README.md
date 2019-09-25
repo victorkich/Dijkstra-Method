@@ -1,3 +1,3 @@
 # Dijkstra-Method
 
-Implementation of Dijkstra algorithm to find the minimum path.
+Implementation of Dijkstra algorithm to find the shortest path.
